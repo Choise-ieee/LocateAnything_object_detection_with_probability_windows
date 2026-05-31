@@ -1,5 +1,5 @@
 # LocateAnything_object_detection_with_probability_windows
-Implement of LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding in windows system, and we also extend the inference result with object detection confidence.
+Implement of LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding in windows system, and we also extend the inference result with object detection confidence. [https://github.com/NVlabs/Eagle/tree/main/Embodied]
 
 ## 1.windows environment setting up
 1. pip install torch==2.11.0 torchvision==0.26.0 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cu128
